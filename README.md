@@ -5,6 +5,11 @@
 Welcome to the FlockGPT repository! This project introduces FlockGPT, a pioneering approach to UAV flocking control using natural language through generative AI. FlockGPT is designed to enable intuitive orchestration of a drone flock of any size, allowing users to achieve desired geometries with ease.
 
 ## Overview 
+This page contains simulation environment that created using Unity Game Engine. You can try flocking without equipment for swarm of drones. Go to releases and download Build, to use it without Unity Editor
+
+![System Architecture](images/Simulation.jpg)
+
+## Overview 
 FlockGPT is a novel approach to drone flocking control using natural language and generative AI. It features an LLM-based interface for user interaction and a flocking technology system that ensures smooth movement of the drone swarm. Our user study confirmed its intuitive control and high performance. This repository contains the demo code for FlockGPT.
 
 ## Installing
