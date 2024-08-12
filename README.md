@@ -1,6 +1,6 @@
 # FlockGPT: Guiding UAV Flocking with Linguistic Orchestration
 
-![System Architecture](img/teaser_new_short.png)
+![System Architecture](images/teaser_new_short.png)
 
 Welcome to the FlockGPT repository! This project introduces FlockGPT, a pioneering approach to UAV flocking control using natural language through generative AI. FlockGPT is designed to enable intuitive orchestration of a drone flock of any size, allowing users to achieve desired geometries with ease.
 
